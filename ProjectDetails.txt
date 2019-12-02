@@ -1,0 +1,16 @@
+In this project I wanna do.. Multiple Urls..
+
+Multiple Urls Means :one urls.py for generic(project folder)
+		     2nd urls.py is for app1
+		     3rd urls.py is for app2
+
+After doing this project successfully : you can feel like real project. because this project contain link 
+for going one page to another page..
+
+	full success
+	============
+	app1 home is coming in the browser..
+	app2 is also coming..
+        home page is also coming...
+
+		Feel like a little website....
